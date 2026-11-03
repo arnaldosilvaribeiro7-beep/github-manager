@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Manager",
+  "description": "Aplicativo nativo para gerenciar sua conta GitHub, repositórios, código, Actions, Pull Requests, Issues e Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
